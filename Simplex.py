@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #coding=utf-8
+# http://0agr.ru/blog/2011/04/15/%D1%81%D0%B8%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4/
  
  
 """
